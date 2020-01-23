@@ -1,0 +1,23 @@
+table tbody td button.btn {
+  padding: 0.175rem 0.6rem;
+}
+table tbody td button.btn i {
+  margin: 0;
+}
+
+form {
+  width: 500px;
+  padding: 15px;
+  background: #ddd;
+  margin: 100px auto;
+}
+form h4 {
+  text-align: center;
+}
+
+.subcategoryimg {
+  width: 100px;
+  height: 30px;
+}
+
+/*# sourceMappingURL=SubCategoriesTable.css.map */

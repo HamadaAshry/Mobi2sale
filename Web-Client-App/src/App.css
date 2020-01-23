@@ -1,0 +1,58 @@
+body {
+  text-transform: capitalize;
+  font-family: "Cairo", sans-serif;
+  overflow-x: hidden;
+  position: relative;
+  background: #ededed;
+}
+
+.btn-toolbar {
+  justify-content: center;
+}
+
+th, td {
+  text-align: center;
+}
+th i, td i {
+  margin-right: 5px;
+}
+
+.modal-container {
+  position: relative;
+}
+
+.tgl-btn {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+
+#app-body {
+  transition: all 0.5s ease-in-out;
+}
+
+.full-width {
+  padding-left: 250px;
+}
+
+.min-width {
+  padding-left: 80px;
+}
+
+.dark-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200vh;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 9999999999;
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+}
+
+.dark-background-show {
+  opacity: 1;
+}
+
+/*# sourceMappingURL=App.css.map */

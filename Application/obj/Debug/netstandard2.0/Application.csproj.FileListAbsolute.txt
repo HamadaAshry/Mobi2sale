@@ -1,0 +1,11 @@
+E:\work\Mobi4sSale\Application\bin\Debug\netstandard2.0\Application.deps.json
+E:\work\Mobi4sSale\Application\bin\Debug\netstandard2.0\Application.dll
+E:\work\Mobi4sSale\Application\bin\Debug\netstandard2.0\Application.pdb
+E:\work\Mobi4sSale\Application\bin\Debug\netstandard2.0\Domain.dll
+E:\work\Mobi4sSale\Application\bin\Debug\netstandard2.0\Domain.pdb
+E:\work\Mobi4sSale\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+E:\work\Mobi4sSale\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+E:\work\Mobi4sSale\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+E:\work\Mobi4sSale\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+E:\work\Mobi4sSale\Application\obj\Debug\netstandard2.0\Application.dll
+E:\work\Mobi4sSale\Application\obj\Debug\netstandard2.0\Application.pdb

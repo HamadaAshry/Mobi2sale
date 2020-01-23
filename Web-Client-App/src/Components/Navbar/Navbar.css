@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+  background: #fff !important;
+  height: 65px;
+}
+
+.toggle-slide-icon {
+  color: #2d3446;
+  font-size: 22px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+.toggle-slide-icon:hover {
+  color: #2d3446;
+}
+
+/*# sourceMappingURL=navbar.css.map */

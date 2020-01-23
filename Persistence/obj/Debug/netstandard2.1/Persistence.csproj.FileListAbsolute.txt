@@ -1,0 +1,17 @@
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Persistence.deps.json
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Persistence.dll
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Persistence.pdb
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Application.dll
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\CommonHelpers.dll
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Domain.dll
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Infrastructure.dll
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Application.pdb
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Domain.pdb
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\CommonHelpers.pdb
+E:\work\Mobi2Sale\Persistence\bin\Debug\netstandard2.1\Infrastructure.pdb
+E:\work\Mobi2Sale\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+E:\work\Mobi2Sale\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+E:\work\Mobi2Sale\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+E:\work\Mobi2Sale\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
+E:\work\Mobi2Sale\Persistence\obj\Debug\netstandard2.1\Persistence.dll
+E:\work\Mobi2Sale\Persistence\obj\Debug\netstandard2.1\Persistence.pdb

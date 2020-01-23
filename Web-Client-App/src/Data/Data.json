@@ -1,0 +1,30 @@
+{
+    "MobileSubCategories" :[
+        {
+            "CategoryID": 1,
+            "CategoryName": "mobile",
+            "SubCategoryID": 10,
+            "SubCategoryNAME": "Apple"
+        },
+        {
+            "CategoryID": 1,
+            "CategoryName": "mobile",
+            "SubCategoryID": 11,
+            "SubCategoryNAME": "Samsung"
+        }
+    ],
+    "AccessoriesSubCategories": [
+        {
+            "CategoryID": 2,
+            "CategoryName": "accessories",
+            "SubCategoryID": 20,
+            "SubCategoryNAME": "remax"
+        },
+        {
+            "CategoryID": 2,
+            "CategoryName": "accessories",
+            "SubCategoryID": 21,
+            "SubCategoryNAME": "infnix"
+        }
+    ]
+}

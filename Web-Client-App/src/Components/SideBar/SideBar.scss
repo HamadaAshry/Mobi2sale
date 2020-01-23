@@ -1,0 +1,146 @@
+aside{
+    background:  #2d3446 ; //#4CB5F5;
+    
+}
+
+
+.side-bar{
+    li{cursor: pointer;}
+    .sidebar-logo{
+        background-color: #1f2431;
+        img{
+            width: 50%;
+            display: block;
+            margin: auto;
+        }
+        
+    }
+    width: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 5000;
+    transition: all .5s ease-in-out;
+    
+    ul {
+        list-style-type: none;
+    }
+}
+
+.side-bar[data-view-side="full-width"]{
+    overflow: hidden;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 5000;
+    transition: all .5s ease-in-out;
+}
+
+
+
+
+
+
+.side-bar ul[data-side='full-width-side']{
+    text-align: left;
+    padding: 0;
+   
+    
+    >li{
+        
+        text-decoration: none;
+        display: inline-block;
+        width: 100%;
+        
+        
+        a{
+            padding: 10px;
+            color: #999;
+            transition: all .3s ease-in-out;
+            width: 100%;
+            display: inline-block;
+            position: relative;
+            &:hover{
+                    color: #fff;
+                    text-decoration: none;
+            }
+            i:first-child{
+                margin-right: 10px;
+            }
+            >i.fa-chevron-right{
+                position: absolute;
+                top: 50%;
+                right: 20px;
+                transform: translateY(-50%);
+                transition: all .5s ease-in-out;
+            }
+            >i.open-dropdown{
+                transform: translateY(-50%) rotate(90deg);
+            }
+        }
+        
+        .dropdown-list{
+            display: none;
+            background: #1f2431;
+            li{
+                a{
+                    text-decoration: none;
+                    padding: 5px;
+                    &:hover{
+                            color: #fff;
+                            text-decoration: none;
+                    
+                }
+            }
+            }
+        }
+        
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.side-bar ul[data-side='min-width-side'] {
+    padding: 0;
+    margin-top: 50px;
+    text-align: center;
+    >li{
+        text-decoration: none;
+        display: inline-block;
+        width: 100%;
+        a{
+            text-align: center;
+            padding: 10px;
+            color: #999;
+            transition: all .3s ease-in-out;
+            width: 100%;
+            display: inline-block;
+            position: relative;
+            font-size: 14px;
+            &:hover{
+                    color: #fff;
+                    text-decoration: none;
+            }
+            h6{font-size: 14px;}
+        }
+        
+
+    }
+}

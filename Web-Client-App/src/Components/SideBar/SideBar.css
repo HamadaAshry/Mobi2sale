@@ -1,0 +1,115 @@
+aside {
+  background: #2d3446;
+}
+
+.side-bar {
+  width: 80px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  z-index: 5000;
+  transition: all 0.5s ease-in-out;
+}
+.side-bar li {
+  cursor: pointer;
+}
+.side-bar .sidebar-logo {
+  background-color: #1f2431;
+}
+.side-bar .sidebar-logo img {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+.side-bar ul {
+  list-style-type: none;
+}
+
+.side-bar[data-view-side=full-width] {
+  overflow: hidden;
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  z-index: 5000;
+  transition: all 0.5s ease-in-out;
+}
+
+.side-bar ul[data-side=full-width-side] {
+  text-align: left;
+  padding: 0;
+}
+.side-bar ul[data-side=full-width-side] > li {
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+}
+.side-bar ul[data-side=full-width-side] > li a {
+  padding: 10px;
+  color: #999;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
+  display: inline-block;
+  position: relative;
+}
+.side-bar ul[data-side=full-width-side] > li a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.side-bar ul[data-side=full-width-side] > li a i:first-child {
+  margin-right: 10px;
+}
+.side-bar ul[data-side=full-width-side] > li a > i.fa-chevron-right {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  transition: all 0.5s ease-in-out;
+}
+.side-bar ul[data-side=full-width-side] > li a > i.open-dropdown {
+  transform: translateY(-50%) rotate(90deg);
+}
+.side-bar ul[data-side=full-width-side] > li .dropdown-list {
+  display: none;
+  background: #1f2431;
+}
+.side-bar ul[data-side=full-width-side] > li .dropdown-list li a {
+  text-decoration: none;
+  padding: 5px;
+}
+.side-bar ul[data-side=full-width-side] > li .dropdown-list li a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.side-bar ul[data-side=min-width-side] {
+  padding: 0;
+  margin-top: 50px;
+  text-align: center;
+}
+.side-bar ul[data-side=min-width-side] > li {
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+}
+.side-bar ul[data-side=min-width-side] > li a {
+  text-align: center;
+  padding: 10px;
+  color: #999;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  font-size: 14px;
+}
+.side-bar ul[data-side=min-width-side] > li a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.side-bar ul[data-side=min-width-side] > li a h6 {
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=SideBar.css.map */

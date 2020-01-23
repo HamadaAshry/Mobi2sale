@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Admin.web.Category.CategoryController.Get">
+            <summary>
+            get a list of all categories.
+            </summary>
+            <returns>all categories</returns>
+            <response code="200">get a list of all categories..</response>
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Category.CategoryController.Details(System.Guid)">
+            <summary>
+            get details of a specific Category.
+            </summary>
+            <param name="id">Guid Of category</param>  
+            <returns>specific category</returns>
+            <response code="200">get details of a specific Category.</response>
+            <response code="400">If the id is invalid</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Category.CategoryController.Create(Application.Admin.web.Categories.Commands.Create.Command)">
+            <summary>
+            Creates a category.
+            </summary>      
+            <param name="command"></param>
+            <returns>A newly created category</returns>
+            <response code="201">Returns the newly created item</response>
+            <response code="400">If the item is null</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Category.CategoryController.Edit(System.Guid,Application.Admin.web.Categories.Commands.Edit.Command)">
+            <summary>
+            Updates a specific Category.
+            </summary>
+            <param name="id" ></param>  
+            <param name="command" ></param>  
+            <returns>Updated category</returns>
+            <response code="200">Returns Updated category</response>
+            <response code="400">If the id or object is invalid</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Category.CategoryController.Delete(System.Guid)">
+            <summary>
+            Deletes a specific Category.
+            </summary>
+            <param name="id"></param> 
+            <response code="204">for success</response>
+            <response code="400">If the id is invalid</response>  
+            <response code="500">If internal server error</response>  
+        </member>
+        <member name="M:Api.Admin.web.Item.ItemController.GetItems(Application.Envelopes.PaginationAndFilteringPropscs,System.Guid)">
+            <summary>
+            get  all items in specific subcategory.
+            </summary>
+            <param name="subcatId">Guid Of subcategory Id</param>  
+            <param name="props">Guid Of subcategory Id</param>      
+            <returns> all items in specific subcategory.</returns>
+            <response code="200">get  all items in specific subcategory.</response>
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Item.ItemController.Details(System.Guid)">
+            <summary>
+            get details of a specific item.
+            </summary>
+            <param name="id">Guid Of item Id</param>  
+            <returns>specific item</returns>
+            <response code="200">get details of a specific item.</response>
+            <response code="400">If the id is invalid</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Item.ItemController.Create(Application.Admin.web.Items.Command.CreateItem.Command)">
+            <summary>
+            Creates an item.
+            </summary>      
+            <param name="command"></param>
+            <returns>A newly created item</returns>
+            <response code="201">Returns the newly created item</response>
+            <response code="400">If the item is null</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Item.ItemController.Edit(System.Guid,Application.Admin.web.Items.Command.EditItem.Command)">
+            <summary>
+            Updates a specific item.
+            </summary>
+            <param name="id" >Type Guid</param>  
+            <param name="command" ></param>  
+            <returns>edit item</returns>
+            <response code="200">Returns edited item</response>
+            <response code="400">If the id or object is invalid</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Item.ItemController.Delete(System.Guid)">
+            <summary>
+            Deletes a specific item.
+            </summary>
+            <param name="id">Guid data type</param> 
+            <response code="204">for success</response>
+            <response code="400">If the id is invalid</response>  
+            <response code="500">If internal server error</response>  
+        </member>
+        <member name="M:Api.Admin.web.Subcategory.SubCategoryController.GetSubcategories(Application.Envelopes.PaginationAndFilteringPropscs,System.Guid)">
+            <summary>
+            get a list of all subcategories in specific category.
+            </summary>
+            <returns>all subcategories of specific category</returns>
+            <response code="200">get a list of all subcategories of specific category</response>
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Subcategory.SubCategoryController.Details(System.Guid)">
+            <summary>
+            get details of a specific Subcategory.
+            </summary>
+            <param name="id">Guid Of Subcategory Id</param>  
+            <returns>specific Subcategory</returns>
+            <response code="200">get details of a specific Subcategory.</response>
+            <response code="400">If the id is invalid</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Subcategory.SubCategoryController.Create(Application.Admin.web.SubCategories.Commands.CreateSubcategory.Command)">
+            <summary>
+            Creates a Subcategory.
+            </summary>      
+            <param name="command"></param>
+            <returns>A newly created Subcategory</returns>
+            <response code="201">Returns the newly created Subcategory</response>
+            <response code="400">If the item is null</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Subcategory.SubCategoryController.Edit(System.Guid,Application.Admin.web.SubCategories.Commands.EditSubCategory.Command)">
+            <summary>
+            Updates a specific Subcategory.
+            </summary>
+            <param name="id" >Type Guid</param>  
+            <param name="command" ></param>  
+            <returns>Updated Subcategory</returns>
+            <response code="200">Returns Updated Subcategory</response>
+            <response code="400">If the id or object is invalid</response>  
+            <response code="500">If internal server error</response> 
+        </member>
+        <member name="M:Api.Admin.web.Subcategory.SubCategoryController.Delete(System.Guid)">
+            <summary>
+            Deletes a specific Subcategory.
+            </summary>
+            <param name="id">Guid data type</param> 
+            <response code="204">for success</response>
+            <response code="400">If the id is invalid</response>  
+            <response code="500">If internal server error</response>  
+        </member>
+    </members>
+</doc>

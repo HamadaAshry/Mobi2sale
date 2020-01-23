@@ -1,0 +1,13 @@
+E:\work\Mobi4sSale\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+E:\work\Mobi4sSale\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+E:\work\Mobi4sSale\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+E:\work\Mobi4sSale\persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+E:\work\Mobi4sSale\persistence\bin\Debug\netstandard2.0\Persistence.dll
+E:\work\Mobi4sSale\persistence\bin\Debug\netstandard2.0\Persistence.pdb
+E:\work\Mobi4sSale\persistence\bin\Debug\netstandard2.0\Application.dll
+E:\work\Mobi4sSale\persistence\bin\Debug\netstandard2.0\Domain.dll
+E:\work\Mobi4sSale\persistence\bin\Debug\netstandard2.0\Application.pdb
+E:\work\Mobi4sSale\persistence\bin\Debug\netstandard2.0\Domain.pdb
+E:\work\Mobi4sSale\persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+E:\work\Mobi4sSale\persistence\obj\Debug\netstandard2.0\Persistence.dll
+E:\work\Mobi4sSale\persistence\obj\Debug\netstandard2.0\Persistence.pdb

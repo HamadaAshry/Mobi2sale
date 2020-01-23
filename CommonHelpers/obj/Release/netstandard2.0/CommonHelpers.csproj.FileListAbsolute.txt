@@ -1,0 +1,8 @@
+E:\work\Mobi2Sale\CommonHelpers\bin\Release\netstandard2.0\CommonHelpers.deps.json
+E:\work\Mobi2Sale\CommonHelpers\bin\Release\netstandard2.0\CommonHelpers.dll
+E:\work\Mobi2Sale\CommonHelpers\bin\Release\netstandard2.0\CommonHelpers.pdb
+E:\work\Mobi2Sale\CommonHelpers\obj\Release\netstandard2.0\CommonHelpers.csprojAssemblyReference.cache
+E:\work\Mobi2Sale\CommonHelpers\obj\Release\netstandard2.0\CommonHelpers.AssemblyInfoInputs.cache
+E:\work\Mobi2Sale\CommonHelpers\obj\Release\netstandard2.0\CommonHelpers.AssemblyInfo.cs
+E:\work\Mobi2Sale\CommonHelpers\obj\Release\netstandard2.0\CommonHelpers.dll
+E:\work\Mobi2Sale\CommonHelpers\obj\Release\netstandard2.0\CommonHelpers.pdb

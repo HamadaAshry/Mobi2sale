@@ -1,0 +1,16 @@
+E:\work\Mobi4sSale\infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+E:\work\Mobi4sSale\infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+E:\work\Mobi4sSale\infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+E:\work\Mobi4sSale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+E:\work\Mobi4sSale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+E:\work\Mobi4sSale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+E:\work\Mobi4sSale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
+E:\work\Mobi4sSale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+E:\work\Mobi2Sale\infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+E:\work\Mobi2Sale\infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+E:\work\Mobi2Sale\infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+E:\work\Mobi2Sale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+E:\work\Mobi2Sale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+E:\work\Mobi2Sale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+E:\work\Mobi2Sale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+E:\work\Mobi2Sale\infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb

@@ -1,0 +1,8 @@
+E:\work\Mobi2Sale\Domain\bin\Release\netstandard2.0\Domain.deps.json
+E:\work\Mobi2Sale\Domain\bin\Release\netstandard2.0\Domain.dll
+E:\work\Mobi2Sale\Domain\bin\Release\netstandard2.0\Domain.pdb
+E:\work\Mobi2Sale\Domain\obj\Release\netstandard2.0\Domain.csprojAssemblyReference.cache
+E:\work\Mobi2Sale\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfoInputs.cache
+E:\work\Mobi2Sale\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfo.cs
+E:\work\Mobi2Sale\Domain\obj\Release\netstandard2.0\Domain.dll
+E:\work\Mobi2Sale\Domain\obj\Release\netstandard2.0\Domain.pdb
